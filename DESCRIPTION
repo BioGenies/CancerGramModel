@@ -1,0 +1,26 @@
+Package: CancerGramModel
+Type: Package
+Title: Data and model storage for CancerGram
+Version: 1.0
+LazyData: TRUE
+Date: 2020-10-02
+Authors@R: c(person("Michal", "Burdukiewicz", 
+           email = "michalburdukiewicz@gmail.com", 
+           comment = c(ORCID = "0000-0001-8926-582X"),
+           role = c("cre", "aut")),
+           person("Katarzyna", "Sidorczuk", 
+           email = "sidorczuk.katarzyna17@gmail.com",
+           role = c("aut")),
+           person("Filip", "Pietluch", 
+           email = "fpietluch@gmail.com",
+           role = c("ctb")),
+           person("Dominik", "Rafacz", 
+           email = "dominikrafacz@gmail.com",
+           role = c("ctb")))
+Description: This package is used only as model and data storage for CancerGram.
+License: GPL-3
+URL: https://github.com/ksidorczuk/CancerGramModel
+BugReports: https://github.com/ksidorczuk/CancerGramModel/issues
+Encoding: UTF-8
+RoxygenNote: 7.1.0
+StagedInstall: no
