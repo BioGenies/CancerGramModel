@@ -10,12 +10,21 @@ Authors@R: c(person("Michal", "Burdukiewicz",
            role = c("cre", "aut")),
            person("Katarzyna", "Sidorczuk", 
            email = "sidorczuk.katarzyna17@gmail.com",
-           role = c("aut")),
+           role = c("aut"),
+           comment = c(ORCID = "0000-0001-6576-9054")),
            person("Filip", "Pietluch", 
            email = "fpietluch@gmail.com",
-           role = c("ctb")),
+           role = c("ctb"),
+           comment = c(ORCID = "0000-0001-6218-9804")),
            person("Dominik", "Rafacz", 
            email = "dominikrafacz@gmail.com",
+           role = c("ctb"),
+           comment = c(ORCID = "0000-0003-0925-1909")),
+           person("Mateusz", "Bakala", 
+           email = "matibakala@gmail.com",
+           role = c("ctb")),
+           person("Jadwiga", "Słowik", 
+           email = "jadwiga.slowik5@gmail.com",
            role = c("ctb")))
 Description: This package is used only as model and data storage for CancerGram.
 License: GPL-3
@@ -24,3 +33,5 @@ BugReports: https://github.com/ksidorczuk/CancerGramModel/issues
 Encoding: UTF-8
 RoxygenNote: 7.1.0
 StagedInstall: no
+Depends:
+    R (>= 3.5.0)
