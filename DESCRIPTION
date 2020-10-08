@@ -30,8 +30,8 @@ Authors@R: c(person("Michal", "Burdukiewicz",
            role = c("ctb")))
 Description: This package is used only as model and data storage for CancerGram.
 License: GPL-3
-URL: https://github.com/ksidorczuk/CancerGramModel
-BugReports: https://github.com/ksidorczuk/CancerGramModel/issues
+URL: https://github.com/BioGenies/CancerGramModel
+BugReports: https://github.com/BioGenies/CancerGramModel/issues
 Encoding: UTF-8
 RoxygenNote: 7.1.0
 StagedInstall: no
